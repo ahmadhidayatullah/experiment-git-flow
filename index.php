@@ -1,3 +1,3 @@
 <?php
 
-echo "experiment git flow";
+echo "experiment git flow edit from feature";
